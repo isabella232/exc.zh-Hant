@@ -1,11 +1,11 @@
 ---
-description: 在Adobe Experience Cloud Library中檢視資產的詳細資訊，包括版本。
-seo-description: 在Adobe Experience Cloud Library中檢視資產的詳細資訊，包括版本。
+description: 在 Adobe Experience Cloud 資料庫中檢視資產的詳細資訊，包括版本。
+seo-description: 在 Adobe Experience Cloud 資料庫中檢視資產的詳細資訊，包括版本。
 seo-title: 檢視資產的詳細資訊
 solution: Experience Manager
 title: 檢視資產的詳細資訊
-uuid: 030511fd-b6 b5-4Fe8-b129-d9937 d1133 a
-translation-type: tm+mt
+uuid: 030511fd-b6b5-4fe8-b129-d9937d1133a4
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
@@ -13,16 +13,16 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 # 檢視資產的詳細資訊{#view-detailed-information-for-an-asset}
 
-在Adobe Experience Cloud Library中檢視資產的詳細資訊，包括版本。
+在 Adobe Experience Cloud 資料庫中檢視資產的詳細資訊，包括版本。
 
-若要在Experience Cloud Library中檢視資產的詳細資訊，包括版本：
+若要在 Adobe Experience Cloud 資料庫中檢視資產的詳細資訊 (包括版本):
 
 1. 按一下資產。
-1. 按一下資產旁的 **[!UICONTROL 「更多選項]** 」功能表(橢圓形)。
+1. 按一下資產旁的&#x200B;**[!UICONTROL 更多選項]**&#x200B;選單 (刪節號)。
 
    ![](assets/library_asset_options.png)
 
-1. 按一下 **[!UICONTROL 「檢視詳細資料]** 」，檢視資產的詳細資訊。
+1. 按一下&#x200B;**[!UICONTROL 「檢視詳細資料」]**，即可檢視資產的詳細資訊。
 
    ![](assets/library_details_versions.png)
 
