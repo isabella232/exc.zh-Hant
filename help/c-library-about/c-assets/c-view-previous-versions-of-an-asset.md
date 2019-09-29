@@ -1,29 +1,29 @@
 ---
-description: 您可以在Adobe Experience Cloud Library中檢視資產的先前版本。
-seo-description: 您可以在Adobe Experience Cloud Library中檢視資產的先前版本。
-seo-title: 檢視舊版資產
+description: 您可以在 Adobe Experience Cloud 資料庫中檢視資產的舊版本。
+seo-description: 您可以在 Adobe Experience Cloud 資料庫中檢視資產的舊版本。
+seo-title: 檢視資產的舊版本
 solution: Experience Manager
-title: 檢視舊版資產
-uuid: fef9a0f-ba9 f-49cf-a49 c-b7 f2 f8022 f32
-translation-type: tm+mt
+title: 檢視資產的舊版本
+uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# 檢視舊版資產{#view-previous-versions-of-an-asset}
+# 檢視資產的舊版本{#view-previous-versions-of-an-asset}
 
-您可以在Adobe Experience Cloud Library中檢視資產的先前版本。
+您可以在 Adobe Experience Cloud 資料庫中檢視資產的舊版本。
 
-若要在Experience Cloud Library中檢視舊版資產：
+若要在 Experience Cloud 資料庫中檢視資產的舊版本:
 
 1. 選取資產。
-1. 選取資產旁的 **[!UICONTROL 「更多選項]** 」功能表(橢圓形)。
+1. 選取資產旁的&#x200B;**[!UICONTROL 更多選項]**&#x200B;選單 (刪節號)。
 
    ![](assets/library_asset_options.png)
 
-1. 選取 **[!UICONTROL 資產詳細資訊]**。
-1. 選取 **[!UICONTROL 「版本」]** 旁邊的「全部檢視」，以查看所有資產的版本。
+1. 選取&#x200B;**[!UICONTROL 「資產詳細資訊」]**。
+1. 選取「版本」旁的&#x200B;**[!UICONTROL 「全部檢視」]**，即可查看資產的所有版本。
 
    ![](assets/library_details_versions.png)
 
