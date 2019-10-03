@@ -10,7 +10,7 @@ tutorials-title: Campaign Standard
 tutorials-url: https://helpx.adobe.com/tw/support/experience-cloud/core-services.html
 git-repo: https://github.com/AdobeDocs/exc.en
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
 
 ---
@@ -33,7 +33,7 @@ metadata.md 檔案包含存放庫層級中繼資料，會傳送至存放庫中�
 | tutorials-url | 教學課程影片 (helpx 或 KT 教學課程其中之一) 的連結 |
 | mini-toc-levels | 決定右邊欄中顯示的標頭層級數。預設為 2 |
 | git-repo | 指定共同作業存放庫的位置。針對公開文件使用 github.com 鏡像 |
-| 索引 | set index=no for soft launch |
+| index | 設定 index=no 以執行軟啓動 |
 
 在 TOC.md 檔案中
 
