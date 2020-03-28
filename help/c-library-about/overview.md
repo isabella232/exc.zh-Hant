@@ -2,18 +2,17 @@
 description: Adobe Experience Cloud 資料庫是通用的集中管理體驗，可讓您跨越不同 Adobe Experience Cloud 解決方案儲存、尋找及選取資產。
 title: Adobe Experience Cloud 資料庫
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
-translation-type: ht
-source-git-commit: 12f34b6ab4e0e95356e1824af9bf37561e19b2b6
+translation-type: tm+mt
+source-git-commit: 667da5bf636cb4e005ecf84b33e9f3baf46aa54f
 
 ---
 
 
 # Adobe Experience Cloud 資料庫{#adobe-experience-cloud-library}
 
-Adobe Experience Cloud 資料庫是通用的集中管理體驗，可讓您跨越不同 Adobe Experience Cloud 解決方案儲存、尋找及選取資產。
+自2020年3月起，Adobe正式淘汰Adobe Experience Cloud資料庫。 它不再可供存取。
 
-## 熱門主題
+**相關功能**
 
-* [匯入內容](/help/c-library-about/c-importing-and-uploading/c-importing-and-uploading.md)
-* 使用[搜尋](/help/c-library-about/c-assets/c-search-for-assets.md)或[篩選](/help/c-library-about/c-assets/c-filter-assets.md)功能尋找內容
-* [查看資產的相關資訊](/help/c-library-about/c-assets/c-view-detailed-information-for-an-asset.md)
+* [Experience Cloud 資產](https://docs.adobe.com/content/help/en/core-services/interface/assets/experience-cloud-assets.html)
+* [AEM Assets](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/home.html)
