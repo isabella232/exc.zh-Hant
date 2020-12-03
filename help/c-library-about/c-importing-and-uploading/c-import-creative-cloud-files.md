@@ -5,8 +5,11 @@ seo-title: 將 Creative Cloud 檔案匯入 Adobe Experience Cloud 資料庫
 solution: Experience Manager
 title: 將 Creative Cloud 檔案匯入 Adobe Experience Cloud 資料庫
 uuid: 184632df-7084-4db8-a4d6-c372ab9764c9
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 98%
 
 ---
 
@@ -21,7 +24,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 若要將 Creative Cloud 檔案匯入 Experience Cloud 資料庫中:
 
-1. 選取&#x200B;**[!UICONTROL 「新增]** &gt; **[!UICONTROL 匯入」]**。
+1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 
