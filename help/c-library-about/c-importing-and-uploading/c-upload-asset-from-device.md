@@ -5,8 +5,11 @@ seo-title: 從裝置上傳資產
 solution: Experience Manager
 title: 從裝置上傳資產
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 96%
 
 ---
 
@@ -17,7 +20,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 若要將您裝置中的資產上傳至 Experience Cloud 資料庫:
 
-1. 選擇&#x200B;**[!UICONTROL 「新增]** &gt; **[!UICONTROL 上傳」]**。
+1. Select **[!UICONTROL New]** > **[!UICONTROL Upload]**.
 
    ![](assets/library_new_folder_upload.png)
 
