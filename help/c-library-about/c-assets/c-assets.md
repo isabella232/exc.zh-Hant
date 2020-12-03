@@ -1,12 +1,15 @@
 ---
 description: 在 Adobe Experience Cloud 資料庫中使用各種工具管理資產，以輕鬆找到詳細資訊和所需版本，進而對資產採取動作。
 seo-description: 在 Adobe Experience Cloud 資料庫中使用各種工具管理資產，以輕鬆找到詳細資訊和所需版本，進而對資產採取動作。
-seo-title: 資產
+seo-title: Assets
 solution: Experience Manager
-title: 資產
+title: Assets
 uuid: dcb38464-a90e-45f8-8ff1-0881f31d46ac
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 100%
 
 ---
 
