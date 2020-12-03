@@ -5,8 +5,11 @@ seo-title: 清除資產
 solution: Experience Manager
 title: 清除資產
 uuid: 7c472517-9d58-4b8a-9f71-6b651901a44b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 100%
 
 ---
 
@@ -19,4 +22,5 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 1. 按一下一或多個要清除的資產。![](assets/import_options_mulit_select_trash.png)
 
-1. 按一下頁面頂端的&#x200B;**[!UICONTROL 垃圾桶]**&#x
+1. 按一下頁面頂端的&#x200B;**[!UICONTROL 垃圾桶]**&#x200B;圖示。
+
