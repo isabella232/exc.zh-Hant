@@ -5,8 +5,11 @@ seo-title: 檢視資產的舊版本
 solution: Experience Manager
 title: 檢視資產的舊版本
 uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 
