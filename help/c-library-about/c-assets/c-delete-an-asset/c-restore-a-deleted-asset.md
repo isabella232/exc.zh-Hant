@@ -5,8 +5,11 @@ seo-title: 還原已清除的資產
 solution: Experience Manager
 title: 還原已清除的資產
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
    ![](assets/library_general_trashed_items.png)
 
 1. 按一下一或多個要還原的項目。
-1. 按一下&#x200B;**[!UICONTROL 「更多資訊 &gt; 還原」]**。
+1. 按一下&#x200B;**[!UICONTROL 「更多資訊 > 還原」]**。
 
    ![](assets/library_restore_perm_delete.png)
 
