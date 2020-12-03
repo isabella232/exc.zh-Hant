@@ -5,8 +5,11 @@ seo-title: 回復成舊版資產
 solution: Experience Manager
 title: 回復成舊版資產
 uuid: 57922668-2ad8-4670-a02b-0086151ac539
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 100%
 
 ---
 
