@@ -5,8 +5,11 @@ seo-title: 永久刪除已清除的資產
 solution: Experience Manager
 title: 永久刪除已清除的資產
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
    ![](assets/library_general_trashed_items.png)
 
 1. 按一下一或多個要永久刪除的項目。
-1. 按一下&#x200B;**[!UICONTROL 「更多資訊 &gt; 永久刪除」]**。
+1. 按一下&#x200B;**[!UICONTROL 「更多資訊 > 永久刪除」]**。
 
    ![](assets/library_restore_perm_delete.png)
 
