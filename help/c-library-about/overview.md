@@ -2,8 +2,11 @@
 description: Adobe Experience Cloud 資料庫是通用的集中管理體驗，可讓您跨越不同 Adobe Experience Cloud 解決方案儲存、尋找及選取資產。
 title: Adobe Experience Cloud 資料庫
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 667da5bf636cb4e005ecf84b33e9f3baf46aa54f
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 100%
 
 ---
 
