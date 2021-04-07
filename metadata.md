@@ -7,12 +7,12 @@ solution-icon: help/assets/experience-cloud-logo-24.png
 getting-started-title: 快速入門
 getting-started-url: https://helpx.adobe.com/tw/experience-cloud-core-services/get-started.html
 tutorials-title: Campaign Standard
-tutorials-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
+tutorials-url: https://helpx.adobe.com/tw/support/experience-cloud/core-services.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/exc.zh-Hant
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ec443c8831a15c9c0274d1fcad8e83e920f43f08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
 ht-degree: 100%
 
