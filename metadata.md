@@ -1,20 +1,12 @@
 ---
 cloud: Experience Cloud
-product: Learn & Support
-solution-title: Experience Cloud 核心服務
-solution-hub-url: https://helpx.adobe.com/tw/support/experience-cloud/core-services.html
-solution-icon: help/assets/experience-cloud-logo-24.png
-getting-started-title: 快速入門
-getting-started-url: https://helpx.adobe.com/tw/experience-cloud-core-services/get-started.html
-tutorials-title: Campaign Standard
-tutorials-url: https://helpx.adobe.com/tw/support/experience-cloud/core-services.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/exc.zh-Hant
 index: false
-translation-type: ht
-source-git-commit: ec443c8831a15c9c0274d1fcad8e83e920f43f08
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 57493b674fb5cce16291e881596cc3449bbc1665
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
