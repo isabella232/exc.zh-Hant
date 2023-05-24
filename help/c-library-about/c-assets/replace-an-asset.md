@@ -1,14 +1,13 @@
 ---
 description: 您可以在 Adobe Experience Cloud 資料庫中汰換資產。
-seo-description: 您可以在 Adobe Experience Cloud 資料庫中汰換資產。
-seo-title: 汰換資產
+seo-description: You can replace an asset in the Adobe Experience Cloud Library.
+seo-title: Replace an Asset
 solution: Experience Manager
 title: 汰換資產
 uuid: c83a3b28-8b9f-4457-affa-948e71cbf784
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 100%
 
 ---

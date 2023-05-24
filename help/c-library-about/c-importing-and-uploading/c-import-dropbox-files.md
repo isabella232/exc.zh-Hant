@@ -1,15 +1,14 @@
 ---
 description: 將 Dropbox 中的檔案匯入 Adobe Experience Cloud 資料庫，以便從任何 Adobe Experience Cloud 產品管理這些檔案。
-seo-description: 將 Dropbox 中的檔案匯入 Adobe Experience Cloud 資料庫，以便從任何 Adobe Experience Cloud 產品管理這些檔案。
-seo-title: 將 Dropbox 檔案匯入 Adobe Experience Cloud 資料庫
+seo-description: Import files from Dropbox into the Adobe Experience Cloud Library to manage them from any Adobe Experience Cloud product.
+seo-title: Import Dropbox Files into the Adobe Experience Cloud Library
 solution: Experience Manager
 title: 將 Dropbox 檔案匯入 Adobe Experience Cloud 資料庫
 uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 98%
+source-wordcount: '136'
+ht-degree: 97%
 
 ---
 
@@ -24,7 +23,7 @@ ht-degree: 98%
 
 若要將 Dropbox 檔案匯入 Experience Cloud 資料庫:
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
+1. 選取 **[!UICONTROL 新增]** > **[!UICONTROL 匯入]**.
 
    ![](assets/library_new_folder_upload.png)
 

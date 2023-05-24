@@ -3,9 +3,8 @@ description: Adobe Experience Cloud 資料庫是通用的集中管理體驗，�
 title: Adobe Experience Cloud 資料庫
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
 exl-id: 4f1bb155-66f9-492f-9902-686c2758d341
-translation-type: ht
 source-git-commit: e4469ee1008afc8f6d18e75b3bb0f2e78c2c65f7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 

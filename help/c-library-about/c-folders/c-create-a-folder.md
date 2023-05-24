@@ -1,15 +1,14 @@
 ---
 description: 您可以在 Adobe Experience Cloud 資料庫中建立資料夾，以便整理資產。
-seo-description: 您可以在 Adobe Experience Cloud 資料庫中建立資料夾，以便整理資產。
-seo-title: 建立資料夾
+seo-description: You can create a folder in the Adobe Experience Cloud Library to organize assets.
+seo-title: Create a Folder
 solution: Experience Manager
 title: 建立資料夾
 uuid: 6651be0e-262a-4f9c-b0c6-adec3a4e2178
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 95%
+source-wordcount: '55'
+ht-degree: 94%
 
 ---
 
@@ -20,7 +19,7 @@ ht-degree: 95%
 
 若要在 Experience Cloud 資料庫中建立資料夾:
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Folder]**.
+1. 選取 **[!UICONTROL 新增]** > **[!UICONTROL 資料夾]**.
 
    ![](assets/library_new_folder_upload.png)
 

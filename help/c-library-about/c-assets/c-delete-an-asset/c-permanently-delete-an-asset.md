@@ -1,14 +1,13 @@
 ---
 description: 您可以在 Adobe Experience Cloud 資料庫中永久刪除已清除的資產。
-seo-description: 您可以在 Adobe Experience Cloud 資料庫中永久刪除已清除的資產。
-seo-title: 永久刪除已清除的資產
+seo-description: You can permanently delete a trashed asset in the Adobe Experience Cloud Library.
+seo-title: Permanently Delete a Trashed Asset
 solution: Experience Manager
 title: 永久刪除已清除的資產
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
